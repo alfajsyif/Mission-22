@@ -13,7 +13,7 @@ h1{
 }
 section{
     display:flex;
-    margin-bottom: 150x;
+    margin-bottom: 10px;
 
 }
 .half-width{
@@ -34,4 +34,58 @@ section{
 .top-banner{
     background-image: url(images/shapes/shape-4.png);
     background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(blueviolet,royalblue);
+    padding: 10px 25px;
+    color:salmon;
+    font: weight 700px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+    padding-left:10%;
+}
+.half-width img{
+    width:100%;
+}
+.My-mission-2022{
+    margin-top: 100px;
+}
+    .alfaj{
+        margin-left: 50px;
+    }
+    .syif{
+        width: 350px;
+        height: 250px;
+        border-radius: 10px;
+    }
+    .love{
+        justify-content: center;
+        
+    }
+.jan{
+    text-align: center;
+}
+.bg1{
+    background-color: rgb(175, 190, 204);
+    margin-right: 30px;
+    border-radius: 20px;
+}
+.bg2{
+    background-color: rgb(196, 236, 216);
+    margin-right: 30px;
+    border-radius: 20px;
+}
+.bg3{
+    background-color: rgb(233, 154, 140);
+    border-radius: 20px;
+}
+.footer{
+  text-align: center;
+    background-color: rgb(47, 40, 39);
+}
+.footer-text{
+    color: white;
 }
