@@ -13,8 +13,7 @@ h1{
 }
 section{
     display:flex;
-    margin-bottom: 10px;
-
+    margin: 10px;
 }
 .half-width{
     width: 50%;
@@ -57,7 +56,7 @@ section{
         margin-left: 50px;
     }
     .syif{
-        width: 350px;
+        width: 300px;
         height: 250px;
         border-radius: 10px;
     }
@@ -70,12 +69,13 @@ section{
 }
 .bg1{
     background-color: rgb(175, 190, 204);
-    margin-right: 30px;
+    margin-right: 50px;
+    margin-left: 100px;
     border-radius: 20px;
 }
 .bg2{
     background-color: rgb(196, 236, 216);
-    margin-right: 30px;
+    margin-right: 50px;
     border-radius: 20px;
 }
 .bg3{
@@ -89,3 +89,55 @@ section{
 .footer-text{
     color: white;
 }
+.A{
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;  
+}
+.Tz{
+    text-decoration: none;
+    background-image:linear-gradient(blueviolet,royalblue);
+    padding: 10px 25px;
+    color:salmon;
+    font: weight 700px;
+    border-radius: 5px;
+}
+.bd{
+    width: 200px;
+    padding-left: 900px;
+}
+.bx{
+    width: 400px;
+    margin-right: 100px;
+    padding-right: 100px;
+}
+.A{
+    width: 500px;
+    padding-right: 700px;
+    margin-left: 200px;
+    border-radius: 50px;
+}
+.sf{
+    width: 200px;
+    margin-right: 100px;
+
+}
+.eye{
+    text-align: center;
+    color: rgb(187, 86, 187);
+}
+.M{
+    text-align: center;
+    background-color: rgb(47, 40, 39);
+    
+}
+.M{
+    color: white;   
+}
+.B{
+    text-align: center;
+    color: slateblue;
+}
+   
+    
+    
